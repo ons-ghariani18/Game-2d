@@ -1,0 +1,3 @@
+What fruit is good source of vitamin c and is often eaten in the morning?;orange ;avocado;cherry;1;
+A number that is less than 10 and the smallest perfect number ?;6;8;2;1;
+What crunchy vegetable is often used in salads and starts with the letter c ?;cabbage ;carrot ;corn ;2;

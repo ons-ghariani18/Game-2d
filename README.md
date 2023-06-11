@@ -1,3 +1,3 @@
 # Game-2d-Esprit
-The game is called "Choufli Dwe" and was developed by the Technocrates group. We used the C programming language along with the SDL library, with the support of Linux. 
-This project was created as part of the end-of-year project at ESPRIT, under the theme of sustainable development. This game is focused on mental health
+TGame Name: "Choufli Dwe"
+Developed by the Technocrates group, "Choufli Dwe" is a mental health-based game designed as part of the ESPRIT end-of-year project. This innovative project was implemented using the C programming language and the SDL library, leveraging the capabilities of Linux. The game focuses on sustainable development and offers an interactive experience to raise players' awareness about mental health issues. Explore psychological challenges and discover stress management mechanisms through an engaging visual interface
